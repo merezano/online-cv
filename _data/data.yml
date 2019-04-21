@@ -21,7 +21,7 @@ sidebar:
     twitter: '@MelvinPerezCx'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 5481072-melvin # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -31,96 +31,92 @@ sidebar:
         level: Native
         
     interests:
-      - item: Climbing
+      - item: Taekwondo
         link:
 
-      - item: Snowboarding
+      - item: Tennis
         link:
 
-      - item: Cooking
+      - item: TBD
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    Software Engineering Leader: |
+      Led and influenced organizations towards quality-oriented working environments
+      that deliver valuable software frequently.
 
-      Second paragraph if required.
+Core Competencies:
+    title: Skills &amp; Proficiency
 
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    toolset:
+      - name: Scrum
+        level: 98%
 
-          - Bullet point
-          - Bullet point
+      - name: Kanban / Lean Software Development
+        level: 85%
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      - name: SAFe
+        level: 98%
 
-          - Bullet point
-          - Bullet point
+      - name: Technical Practices (TDD, Refactoring)
+        level: 98%
+
+      - name: Facilitation and Presentation
+        level: 98%
+
+      - name: Unix/Linux, Shell Scripting
+        level: 90%
+
+      - name: SQL, Relational Databases
+        level: 90%
+
+      - name: Java, JUnit
+        level: 80%
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Technical Fellow
+      time: 2010 - Present
+      company: Construx Software, Bellevue, WA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Authored instructor-led and online seminars on Agile software
+        development topics such as Scrum, Kanban, Agile Release Planning,
+        Agile Development Practices, and Developer Testing.I delivered hundreds
+        of sessions wordwide with an average satisfaction score of 4.5+ on a 1-5
+        scale.I also delivered process consulting services that improved software
+        practices in organizations of all sizes in a variety of domains.
 
-          - Bullet point
-          - Bullet point
+          - Training author
+          - Training facilitator of hundreds of sessions with excellent ratings
+          - Process consultant
+          - Technical consultant
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Assistant
+      time: 2007 - 2010
+      company: Rochester Institute of Technology, IBM Research
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I took a break in my professional career to get back to the academia. 
+        I spent three years at RIT working towards a Ph.D in Computing and 
+        Information Sciences.I completed the coursework, but didn't get to
+        write my thesis.I was missing the industry. Prior to getting back to
+        the industry, I had the opportunity to spent a Summer at IBM Research in
+        Hawthorne, NY, were I worked on a expert system that was granted with
+        a patent. I also delivered several undergrad courses in the BS in
+        Software Engineering at RIT.
 
-          - Bullet point
-          - Bullet point
+          - Research on feature configuration and composition
+          - Expert Conversation Builder patent at IBM Research
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Vicepresident and Chief Software Architect
+      time: 1993 - 2007
+      company: CAM Informática, Santo Domingo, Dominican Republic
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Founder. Guided the technical division from day one. Led process improvement
+        initiatives that were granted with a CMMI level 2. Architect for the leading
+        commercial applications and design reviewer for custom applications.
 
-          - Bullet point
-          - Bullet point
+          - From chaos to a CMMI level 2 organization
+          - Professional development
 
 projects:
     title: Projects
@@ -170,27 +166,29 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+education:
+    - degree: MS in Information Technology - Software Engineering
+      university: Carnegie Mellon University, Pittsburgh, PA
+      time: 2000 - 2003
+      details: |
+        Completed this masters at distance from the Dominican Republic while the 
+        leading the technical division at CAM Informática.
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+          - Capstone project was the design of a query-based business alert system.
 
-      - name: Javascript & jQuery
-        level: 98%
+    - degree: Ingeniero de Sistemas & Computación (BS in Computing and Systems Engineering)
+      university: Pontificia Universidad Católica Madre & Maestra, Santo Domingo, Dominican Republic
+      time: 1988 - 1993
+      details: |
+        Five-year program mixing system engineering with computing that required
+        internship and two capstone team projects for graduation. For our first
+        capstone, my group developed a book library system in C using a third-party
+        BTree file management utility for data storage and search.For our second
+        capstone, my group developed MENUTIL, a menuing system that made easy to access
+        applications installed in the computer. It also included a messaging system 
+        for multi-user computers, and a contact information system.
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+          - Cum Laude
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
