@@ -74,7 +74,8 @@ skills:
       - name: Java, JUnit
         level: 80%
 
-professional experience:
+experiences:
+    title: Professional Experience
     - role: Senior Technical Fellow
       time: 2010 - Present
       company: Construx Software, Bellevue, WA
