@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Melvin Pérez-Cedano
-    tagline: Software leader helping organizations to accelerate software delivery sustainably
+    tagline: Accelerate software delivery sustainably via empowered, self-organizing teams focused on customer value
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,20 +31,21 @@ sidebar:
         level: Native
         
     interests:
-      - item: Taekwondo
+      - item: Sports
         link:
 
-      - item: Tennis
+      - item: Music
         link:
 
-      - item: TBD
+      - item: Movies
         link:
 
 career-profile:
-    title: Software Engineering Leader
+    title: Software Development Leader
     summary: |
-      Led and influenced organizations towards quality-oriented working environments
-      that deliver valuable software frequently.
+      Software development professional with over 25 years of experience developing,
+      leading and influencing organizations towards frequent delivery of high-quality
+      valuable software.
 
 skills:
     title: Skills &amp; Proficiency
@@ -54,7 +55,7 @@ skills:
         level: 98%
 
       - name: Kanban / Lean Software Development
-        level: 85%
+        level: 98%
 
       - name: SAFe
         level: 98%
@@ -74,91 +75,13 @@ skills:
       - name: Java, JUnit
         level: 80%
 
-experiences:
-    - role: Senior Technical Fellow
-      time: 2010 - Present
-      company: Construx Software, Bellevue, WA
-      details: |
-        Authored instructor-led and online seminars on Agile software
-        development topics such as Scrum, Kanban, Agile Release Planning,
-        Agile Development Practices, and Developer Testing.I delivered hundreds
-        of sessions wordwide with an average satisfaction score of 4.5+ on a 1-5
-        scale.I also delivered process consulting services that improved software
-        practices in organizations of all sizes in a variety of domains.
-
-          - Training author
-          - Training facilitator of hundreds of sessions with excellent ratings
-          - Process consultant
-          - Technical consultant
-
-    - role: Research Assistant
-      time: 2007 - 2010
-      company: Rochester Institute of Technology, IBM Research
-      details: |
-        I took a break in my professional career to get back to the academia. 
-        I spent three years at RIT working towards a Ph.D in Computing and 
-        Information Sciences.I completed the coursework, but didn't get to
-        write my thesis.I was missing the industry. Prior to getting back to
-        the industry, I had the opportunity to spent a Summer at IBM Research in
-        Hawthorne, NY, were I worked on a expert system that was granted with
-        a patent. I also delivered several undergrad courses in the BS in
-        Software Engineering at RIT.
-
-          - Research on feature configuration and composition
-          - Expert Conversation Builder patent at IBM Research
-
-    - role: Vicepresident and Chief Software Architect
-      time: 1993 - 2007
-      company: CAM Informática, Santo Domingo, Dominican Republic
-      details: |
-        Founder. Guided the technical division from day one. Led process improvement
-        initiatives that were granted with a CMMI level 2. Architect for the leading
-        commercial applications and design reviewer for custom applications.
-
-          - From chaos to a CMMI level 2 organization
-          - Professional development
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: Software Product Lines
-        authors: Jorge Díaz-Herrera, Melvin Pérez-Cedano
-        conference: Book chapter in Computing Handbook, Third Edition, CRC Press (2014).
-
 education:
+    - degree: (pending) Ph.D in Computing and Information Sciences
+      university: Rochester Institute of Technology
+      time: 2007 - 2010
+      details: |
+          Completed course work.
+
     - degree: MS in Information Technology - Software Engineering
       university: Carnegie Mellon University, Pittsburgh, PA
       time: 2000 - 2003
@@ -181,6 +104,60 @@ education:
         for multi-user computers, and a contact information system.
 
           - Cum Laude
+
+experiences:
+    - role: Senior Technical Fellow
+      time: 2010 - Present
+      company: Construx Software, Bellevue, WA
+      details: |
+        Authored instructor-led and online seminars on Agile software
+        development topics such as Scrum, Kanban, Agile Release Planning,
+        Agile Practices for Developers, and Developer Testing. I have delivered hundreds
+        of instructor-led sessions wordwide with an average satisfaction score of 4.5+ on a 1-5
+        scale. Also, I have provided organizational assessments that led to
+        significant improvements in software development practices.
+
+          - Training author
+          - Training facilitator of hundreds of sessions with excellent ratings
+          - Process consultant
+          - Technical consultant
+
+    - role: Research Assistant
+      time: 2007 - 2010
+      company: Rochester Institute of Technology, IBM Research
+      details: |
+        I took a break in my professional career to get back to the academia. 
+        I spent three years at RIT working towards a Ph.D in Computing and 
+        Information Sciences. I completed the coursework, but then I realized
+        that research wasn't my thing. I was missing industry so much that I decided to get back.
+        Prior to getting back to the industry, I had the opportunity to spent a Summer at IBM Research in
+        Hawthorne, NY, were I worked on a expert system that was granted with
+        a patent. I also delivered several undergrad courses Software Engineering department at RIT.
+
+          - Research on feature configuration and composition
+          - Expert Conversation Builder patent at IBM Research
+
+    - role: Vicepresident and Chief Software Architect
+      time: 1993 - 2007
+      company: CAM Informática, Santo Domingo, Dominican Republic
+      details: |
+        Founder. Guided the technical division from day one. Led process improvement
+        initiatives that were granted with a CMMI level 2. Architect and original developer for the leading
+        commercial applications and design reviewer for custom applications.
+
+          - Develop code generator for database applications that cut around 30% of the development time while minimizing mistakes and errors. 
+          - Took the organization from chaos to a CMMI level 2 (first in the Caribbean) 
+          - Established professional development programs that enhanced employee satisfaction and empowerment
+
+publications:
+    title: Publications
+    intro: |
+
+    papers:
+      - title: Software Product Lines
+        authors: Jorge Díaz-Herrera, Melvin Pérez-Cedano
+        conference: Book chapter in Computing Handbook, Third Edition, CRC Press (2014).
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
