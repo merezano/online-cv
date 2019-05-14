@@ -51,6 +51,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Software Engineering
+        level: 98%
+
       - name: Scrum
         level: 98%
 
@@ -60,11 +63,14 @@ skills:
       - name: SAFe
         level: 98%
 
-      - name: Technical Practices (TDD, Refactoring)
+      - name: Technical Practices (BDD / TDD, Refactoring)
         level: 98%
 
       - name: Facilitation and Presentation
         level: 98%
+
+      - name: Software Design and Architecture
+        level: 90%
 
       - name: Unix/Linux, Shell Scripting
         level: 90%
@@ -109,8 +115,9 @@ experiences:
     - role: Senior Technical Fellow
       time: 2010 - Present
       company: Construx Software, Bellevue, WA
+      website: http://www.construx.com
       details: |
-        Authored instructor-led and online seminars on Agile software
+        I have authored several instructor-led and online seminars on Agile software
         development topics such as Scrum, Kanban, Agile Release Planning,
         Agile Practices for Developers, and Developer Testing. I have delivered hundreds
         of instructor-led sessions wordwide with an average satisfaction score of 4.5+ on a 1-5
@@ -135,11 +142,12 @@ experiences:
         a patent. I also delivered several undergrad courses Software Engineering department at RIT.
 
           - Research on feature configuration and composition
-          - Expert Conversation Builder patent at IBM Research
+          - Expert Conversation Builder [patent](https://patents.google.com/patent/US10042844B2/) at IBM Research
 
     - role: Vicepresident and Chief Software Architect
       time: 1993 - 2007
       company: CAM Informática, Santo Domingo, Dominican Republic
+      website: http://www.caminf.com
       details: |
         Founder. Guided the technical division from day one. Led process improvement
         initiatives that were granted with a CMMI level 2. Architect and original developer for the leading
