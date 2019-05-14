@@ -20,8 +20,9 @@ sidebar:
     bitbucket: merezano
     twitter: '@MelvinPerezCx'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: merezano
     goodreads: 5481072-melvin # Number-Username, e.g. 123456-alandoe
+    quora: merezano
 
     languages:
       - idiom: English
@@ -139,7 +140,7 @@ experiences:
         that research wasn't my thing. I was missing industry so much that I decided to get back.
         Prior to getting back to the industry, I had the opportunity to spent a Summer at IBM Research in
         Hawthorne, NY, were I worked on a expert system that was granted with
-        a patent. I also delivered several undergrad courses Software Engineering department at RIT.
+        a [patent](https://patents.google.com/patent/US10042844B2/). I also delivered several undergrad courses Software Engineering department at RIT.
 
           - Research on feature configuration and composition
           - Expert Conversation Builder [patent](https://patents.google.com/patent/US10042844B2/) at IBM Research
@@ -149,13 +150,14 @@ experiences:
       company: CAM Informática, Santo Domingo, Dominican Republic
       website: http://www.caminf.com
       details: |
-        Founder. Guided the technical division from day one. Led process improvement
+        Founder. Guided the technical division (around 60 engineers by 2007) from day one. Led process improvement
         initiatives that were granted with a CMMI level 2. Architect and original developer for the leading
         commercial applications and design reviewer for custom applications.
 
-          - Develop code generator for database applications that cut around 30% of the development time while minimizing mistakes and errors. 
+          - Developed code generator for database applications that cut around 30% of the development time while minimizing mistakes and errors. 
           - Took the organization from chaos to a CMMI level 2 (first in the Caribbean) 
           - Established professional development programs that enhanced employee satisfaction and empowerment
+          - Developed key partnerships including becoming one of the first Microsoft Gold Certified Parners in the Caribbean
 
 publications:
     title: Publications
