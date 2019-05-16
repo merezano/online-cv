@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Melvin Pérez-Cedano
     tagline: Accelerating software delivery sustainably by enabling teams with effective practices focused on quality and customer value
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Headshot.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: merezano@gmail.com
