@@ -82,7 +82,7 @@ skills:
         level: 80%
 
 education:
-    - degree: (pending) Ph.D in Computing and Information Sciences
+    - degree: (ABD) Ph.D in Computing and Information Sciences
       university: Rochester Institute of Technology
       time: 2007 - 2010
       details: |
@@ -119,10 +119,10 @@ experiences:
       details: |
           I provide training and consulting services that help organizations and individuals to successfully adopt Agile development processes and technical practices.
         
-          - Authored tens of instructor-led and online seminars on Agile software development topics such as Scrum, Kanban, Agile Release Planning, Agile Practices for Developers, and Developer Testing. 
-          - Delivered hundreds of instructor-led sessions worldwide in different domains and organization of all ranges. Overall satisfaction score of 4.5+ on a 1-5 scale.
-          - Provided organizational assessments that led to significant improvements in software development practices.
-          - Provided due-dilligence technical assessments of software in the order of 1-10 MLOC that influenced acquisitions worth up to nine-digit figures.
+          - I have authored tens of instructor-led and online seminars on Agile software development topics such as Scrum, Kanban, Agile Release Planning, Agile Practices for Developers, and Developer Testing. 
+          - I have delivered hundreds of instructor-led sessions worldwide in different domains and organization of all ranges. Overall satisfaction score of 4.5+ on a 1-5 scale.
+          - I have provided organizational assessments that led to significant improvements in software development practices.
+          - I have provided due-dilligence technical assessments of software in the order of 1-10 MLOC that influenced acquisitions worth up to nine-digit figures.
 
     - role: Research Assistant
       time: 2007 - 2010
@@ -137,8 +137,8 @@ experiences:
         a [patent](https://patents.google.com/patent/US10042844B2/). 
 
           - Conducted research on Software Product Lines and feature configuration and composition
-          - Present "Feature-Driven Configuration Management" at the First Graduate Research Symposium
-          - Initial development of Expert Conversation Builder [patent](https://patents.google.com/patent/US10042844B2/) at IBM Research
+          - Presented "Feature-Driven Configuration Management" at the First Graduate Research Symposium
+          - Develop the initial code of an Expert Conversation Builder [patent](https://patents.google.com/patent/US10042844B2/) at IBM Research
 
     - role: Vicepresident and Chief Software Architect
       time: 1993 - 2007
