@@ -44,7 +44,7 @@ career-profile:
     title: Software Development Leader
     summary: |
       Software development professional with over 25 years of experience developing,
-      leading and influencing organizations towards frequent delivery of high-quality
+      leading and influencing teams towards frequent delivery of high-quality
       valuable software.
 
 skills:
@@ -112,48 +112,66 @@ education:
           - Cum Laude
 
 experiences:
-    - role: Senior Technical Fellow
-      time: 2010 - Present
-      company: Construx Software, Bellevue, WA
+    - company: Construx Software, Bellevue, WA
       website: http://www.construx.com
+      role: Senior Consultant
+      time: 2010 - Present
       details: |
-          I provide training and consulting services that help organizations and individuals to successfully adopt Agile development processes and technical practices.
-        
-          - I have authored tens of instructor-led and online seminars on Agile software development topics such as Scrum, Kanban, Agile Release Planning, Agile Practices for Developers, and Developer Testing. 
-          - I have delivered hundreds of instructor-led sessions worldwide in different domains and organization of all ranges. Overall satisfaction score of 4.5+ on a 1-5 scale.
-          - I have provided organizational assessments that led to significant improvements in software development practices.
-          - I have provided due-dilligence technical assessments of software in the order of 1-10 MLOC that influenced acquisitions worth up to nine-digit figures.
+          - Expanded training and consulting services offering on Agile software development with the creation of new courses targetting technical and leadership audiences, which resulted in hundreds of sessions delivered worldwide with an overall satisfaction of 4.6+ on a 1-5 scale.
+          - Influenced client decisions on software acquisitions of nine-digit figures via technical due-diligence assessments.
 
-    - role: Research Assistant
-      time: 2007 - 2010
-      company: Rochester Institute of Technology, IBM Research
+    - company: CAM Informática, Santo Domingo, Dominican Republic
+      website: http://www.caminf.com
+      role: Vicepresident of Engineering
+      time: 1993 - 2007
       details: |
-        I took a break in my professional career to get back to the academia. 
-        I spent three years at RIT working towards a Ph.D in Computing and 
-        Information Sciences. I completed the coursework, but then I realized
-        that research wasn't my thing. I was missing industry so much that I decided to get back.
-        Prior to getting back to the industry, I had the opportunity to spent a Summer at IBM Research in
-        Hawthorne, NY, were I started the development of a expert system that was eventually granted with
-        a [patent](https://patents.google.com/patent/US10042844B2/). 
+
+          - Envisioned and led a software improvement initiative that
+            transformed the organization from an ad-hoc development culture to a
+            quality-oriented culture rated at CMMI level 2 (first in the
+            Caribbean).  This provided the organization with the necessary
+            credibility to enter international markets.
+
+          - Developed a code generator for database applications that cut the
+            development time to ~60% while minimizing mistakes and errors. 
+
+          - Designed and developed the foundational code for the leading
+            mid-size ERP system in the Dominican Republic. 
+
+          - Established professional development programs that enhanced employee
+            satisfaction and kept employee retention over 95%.
+
+          - Developed partnerships with key software vendors such as IBM and
+            Microsoft (one of the first Microsoft Gold Certified partners in the
+            Caribbean) that strengthened credibility and market recognition.
+
+    - company: IBM Research
+      website: https://www.research.ibm.com/labs/watson/
+      role: Research Assistant
+      time: June, 2010 - August, 2010
+      details: |
+
+          - Research internship part of my work towards a Ph.D in Computing and
+            Information Sciences.
+
+          - Designed and developed the foundation code of an expert system
+            granted with patent
+            [US10042844B2](https://patents.google.com/patent/US10042844B2/)
+
+    - company: Rochester Institute of Technology
+      website: https://www.rit.edu/computing/study/computing-and-information-sciences-phd
+      role: Research Assistant
+      time: 2007 - 2010
+      details: |
+
+          - Driven by my lifelong-learner spirit, I took a break from industry
+            and went back to the academia to pursue a Ph.D in Computing and
+            Information Sciences. 
 
           - Conducted research on Software Product Lines and feature configuration and composition
-          - Presented "Feature-Driven Configuration Management" at the First Graduate Research Symposium
-          - Develop the initial code of an Expert Conversation Builder [patent](https://patents.google.com/patent/US10042844B2/) at IBM Research
 
-    - role: Vicepresident and Chief Software Architect
-      time: 1993 - 2007
-      company: CAM Informática, Santo Domingo, Dominican Republic
-      website: http://www.caminf.com
-      details: |
-        Founder. Guided the technical division (around 60 engineers by 2007) from day one. Led process improvement
-        initiatives that were granted with a CMMI level 2. Architect and original developer for the leading
-        commercial applications and design reviewer for custom applications.
+          - Presented "Feature-Driven Configuration Management" at the First Graduate Research Symposium at RIT
 
-          - Developed code generator for database applications that cut around 30% of the development time while minimizing mistakes and errors. 
-          - Led the design and developed the foundational concept and code for a mid-size ERP application that also served as back-office for a banking and for an insurance systems that I also led the development of.
-          - Took the organization from an ad-hoc development practice to a CMMI level 2 (first in the Caribbean) 
-          - Established professional development programs that enhanced employee satisfaction and empowerment
-          - Developed key partnerships including becoming one of the first Microsoft Gold Certified Parners in the Caribbean
 
 publications:
     title: Publications
