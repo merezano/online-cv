@@ -117,7 +117,7 @@ experiences:
       role: Senior Consultant
       time: 2010 - Present
       details: |
-          - Expanded training and consulting services offering on Agile software development with the creation of new courses targetting technical and leadership audiences, which resulted in hundreds of sessions delivered worldwide with an overall satisfaction of 4.6+ on a 1-5 scale.
+          - Expanded training and consulting services offering on Agile software development with the creation of new courses targeting technical and leadership audiences, which resulted in hundreds of sessions delivered worldwide with an overall satisfaction of 4.6+ on a 1-5 scale.
           - Influenced client decisions on software acquisitions of nine-digit figures via technical due-diligence assessments.
 
     - company: CAM Informática, Santo Domingo, Dominican Republic
@@ -125,6 +125,9 @@ experiences:
       role: Vicepresident of Engineering
       time: 1993 - 2007
       details: |
+
+          - Led the technical division of ~60 engineers grouped into product
+            teams and functional departments
 
           - Envisioned and led a software improvement initiative that
             transformed the organization from an ad-hoc development culture to a
